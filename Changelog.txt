@@ -1,0 +1,6 @@
+﻿#1: 12-08-2022
+	Removes Test project. 
+	Inserts new btn Icons. 
+	Removes Calculator (to somewhere else).
+	Alters Register layout. 
+	Save button adds text values to DataGridView (very primitive yet)
